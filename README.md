@@ -30,3 +30,8 @@ i have drained my battery and so will yout
 
 and dont be like me and zip tie components to a plywood board
 get an actual solution
+
+
+If you want to go off and add your own stuff heres the holy grail of resources
+https://pikkupossu.1g.fi/tomi/projects/i-bus/i-bus.html
+
